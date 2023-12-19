@@ -1,0 +1,38 @@
+.body{
+    font-family: 'Montserrat', sans-serif;
+}
+.navpart{
+    background-color: #1A187A;
+}
+.navbar-brand img{
+    width: 200px;
+    height: auto;
+}
+.banner{
+    background-image: url(./bg.jpeg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+.banner h6{
+    color: #1E046A;
+}
+.banner h1{
+    color: #000;
+}
+.banner p{
+    color: #000;
+}
+.category{
+    background-color: #FAFAFA;
+}
+.list-unstyled a{
+    color: gray;
+    text-decoration: none;
+}
+.final{
+    background-color: #958AD4;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
